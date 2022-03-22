@@ -1,0 +1,62 @@
+[
+    {
+      "id": "6238e686e1da9e48bab091fc",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "brown",
+      "name": "Mathews Walters",
+      "gender": "male",
+      "email": "mathewswalters@diginetic.com",
+      "phone": "+1 (872) 434-2095"
+    },
+    {
+      "id": "6238e68658ab47d1615cadc7",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "eyeColor": "brown",
+      "name": "Jacobs Foley",
+      "gender": "male",
+      "email": "jacobsfoley@diginetic.com",
+      "phone": "+1 (936) 508-3262"
+    },
+    {
+      "id": "6238e686534f75286c8977ab",
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "eyeColor": "green",
+      "name": "Pierce England",
+      "gender": "male",
+      "email": "pierceengland@diginetic.com",
+      "phone": "+1 (841) 596-2067"
+    },
+    {
+      "id": "6238e6867cb4e18d2c9b96c2",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "eyeColor": "brown",
+      "name": "Mercado Cline",
+      "gender": "male",
+      "email": "mercadocline@diginetic.com",
+      "phone": "+1 (889) 475-2775"
+    },
+    {
+      "id": "6238e686a05c6f2a94df9189",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "eyeColor": "blue",
+      "name": "Rhea Delacruz",
+      "gender": "female",
+      "email": "rheadelacruz@diginetic.com",
+      "phone": "+1 (837) 523-2084"
+    },
+    {
+      "id": "6238e6868ce515e1f09b3e31",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "green",
+      "name": "Russell Strickland",
+      "gender": "male",
+      "email": "russellstrickland@diginetic.com",
+      "phone": "+1 (866) 571-3117"
+    }
+  ]

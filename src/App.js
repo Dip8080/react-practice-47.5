@@ -1,23 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './Component/Header/Header';
+import { addition, multiplicaton } from './Component/Calculator/Calculator';
+import Person from './Component/Persons/Person';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header></Header>
+     <p> multiplicaton :{multiplicaton(2,4)}</p>
+     <h4>add : {addition(2,4)}</h4>
+     <Person></Person>
     </div>
   );
 }
